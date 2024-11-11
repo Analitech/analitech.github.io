@@ -1,9 +1,7 @@
 import IconButton from "@mui/material/IconButton";
 import { BiStats } from "react-icons/bi";
-import map from "../../assets/delitos-en-itios_t.jpg";
 import { FaWater, FaWheelchair } from "react-icons/fa";
 import { FaGun } from "react-icons/fa6";
-import Map from "../../components/map/map";
 import { Link, Outlet } from "react-router-dom";
 export default function MiniDrawer() {
   return (
